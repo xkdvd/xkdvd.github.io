@@ -1,9 +1,9 @@
 ## Welcome to the blank xkdvd 😅
-![](https://user![6xsu71](https://user-images.githubusercontent.com/100168196/197265744-50741265-4178-4a99-86a5-e47217f7f285.gif)
+![](https://user-images.githubusercontent.com/100168196/197265744-50741265-4178-4a99-86a5-e47217f7f285.gif)
 ![](100168196.png)
 [http://www.2600.com](https://www.2600.com/offthewall/)
 ![](100168196.png)
-![](https://user![6xsu71](https://user-images.githubusercontent.com/100168196/197265744-50741265-4178-4a99-86a5-e47217f7f285.gif)
+![](https://user-images.githubusercontent.com/100168196/197265744-50741265-4178-4a99-86a5-e47217f7f285.gif)
 
 ![](https://user![6xsu71](https://user-images.githubusercontent.com/100168196/197265744-50741265-4178-4a99-86a5-e47217f7f285.gif)
 ![](100168196.png)
