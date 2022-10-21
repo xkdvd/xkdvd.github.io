@@ -11,6 +11,8 @@ http://www.phrack.org/
 ![http://www.l0pht.com](https://web.archive.org/web/20010118210000/http://www.l0pht.com/)
 ![](100168196.png)
 
+if the bugs start dancing reset your computer to stop them.
+
 #### Broght to You By the Urban Invasion Society 
 A--------
 
