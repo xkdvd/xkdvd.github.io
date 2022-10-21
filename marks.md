@@ -1,5 +1,5 @@
 ## Internet groups from the Early 80s and 90s
-[https://www.2600.com/](https://www.2600.com/meetings) 
+[https://www.2600.com/](https://www.2600.com/) 
 
 
 http://www.phrack.org/ 
