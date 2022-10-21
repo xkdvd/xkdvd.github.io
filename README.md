@@ -16,15 +16,15 @@ A--------
 
 crujiente
 
-C----F#   
+C---------   
 
 sabe a bicho
 
-D-----------C--------
+F#----------D-----------
 
 queda leche crujiente
 
-A----------C---
+C--------------
 
 chinche de cama
 
@@ -33,15 +33,15 @@ A--------
 
 crujiente
 
-C----F#   
+C---------   
 
 sabe a bicho
 
-D-----------C--------
+F#----------D-----------
 
 queda leche crujiente
 
-A----------C---
+C--------------
 
 chinche de cama
 
@@ -49,15 +49,15 @@ A--------
 
 crujiente
 
-C----F#   
+C---------   
 
 sabe a bicho
 
-D-----------C--------
+F#----------D-----------
 
 queda leche crujiente
 
-A----------C---
+C--------------
 
 chinche de cama
 
