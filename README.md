@@ -16,7 +16,7 @@ A-
 
 crujiente
 
-C    F#   
+C       F#   
 
 sabe a bicho
 
