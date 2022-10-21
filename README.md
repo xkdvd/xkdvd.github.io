@@ -1,7 +1,7 @@
 ## Welcome to the blank xkdvd 😅
 
 #### Broght to You By the Urban Invasion Society and the Swat Team Apartments
-A Minor
+A-   C
 
 crujiente
 
@@ -9,16 +9,16 @@ F#   D C
 
 sabe a bicho
 
-A Minor F#  C
+A-    C     F#      
 
 queda leche crujiente
 
-D       C
+D       C       
 
 chinche de cama
 
 
-A Minor
+A-   C
 
 crujiente
 
@@ -26,16 +26,16 @@ F#   D C
 
 sabe a bicho
 
-A Minor F#  C
+A-    C     F#      
 
 queda leche crujiente
 
-D       C
+D       C       
 
 chinche de cama
 
 
-A Minor
+A-   C
 
 crujiente
 
@@ -43,13 +43,10 @@ F#   D C
 
 sabe a bicho
 
-A Minor F#  C
+A-    C     F#      
 
 queda leche crujiente
 
-D       C
+D       C       
 
-chinche de cama#### Nada Label
-
-
-
+chinche de cama
