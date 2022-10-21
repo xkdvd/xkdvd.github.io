@@ -20,11 +20,11 @@ C----F#
 
 sabe a bicho
 
-D-----C-----A-
+D-----------C--------
 
 queda leche crujiente
 
-C-------F#
+A----------C---
 
 chinche de cama
 
@@ -37,11 +37,11 @@ C----F#
 
 sabe a bicho
 
-D-----C-----A-
+D-----------C--------
 
 queda leche crujiente
 
-C-------F#
+A----------C---
 
 chinche de cama
 
@@ -53,11 +53,11 @@ C----F#
 
 sabe a bicho
 
-D-----C-----A-
+D-----------C--------
 
 queda leche crujiente
 
-C-------F#
+A----------C---
 
 chinche de cama
 
