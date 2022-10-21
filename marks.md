@@ -1,5 +1,5 @@
 ## Internet groups from the Early 80s and 90s
-[https://www.2600.com/offthewall](https://www.2600.com/meetings) 
+[https://www.2600.com/](https://www.2600.com/meetings) 
 
 Idaho Official Meetings at ISU - for people interested, meetings were being held at the Student Union Building at ISU and then moved to the college market - last I checked it's under new ownership. Clud was held in old town and seems to have moved to boise after that. 
 
