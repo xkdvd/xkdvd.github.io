@@ -1,6 +1,5 @@
 ## Internet groups from the Early 80s and 90s
-https://www.2600.com/offthewall/ 
-
+https://www.2600.com/offthewall/   Idaho Meetings at ISU cancelled
 
 http://www.phrack.org/ 
 
