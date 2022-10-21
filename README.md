@@ -1,5 +1,5 @@
 ## Welcome to the blank xkdvd 😅
-[169928-1](https://user-images.githubusercontent.com/100168196/197262983-c786369b-63a4-49d9-a572-ac6515535323.gif)
+[](https://user-images.githubusercontent.com/100168196/197262983-c786369b-63a4-49d9-a572-ac6515535323.gif)
 ![](100168196.png)
 [http://www.2600.com](https://www.2600.com/offthewall/)
 ![](100168196.png)
