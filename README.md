@@ -12,52 +12,50 @@ http://www.phrack.org/
 ![](100168196.png)
 
 #### Broght to You By the Urban Invasion Society 
-A-   C
+A-   
 
 crujiente
 
-F#   D C
+C    F#   
 
 sabe a bicho
 
-A-    C     F#      
+D     C     A-
 
 queda leche crujiente
 
-D       C       
+C       F#
 
 chinche de cama
 
 
-A-   C
+A-   
 
 crujiente
 
-F#   D C
+C    F#   
 
 sabe a bicho
 
-A-    C     F#      
+D     C     A-
 
 queda leche crujiente
 
-D       C       
+C       F#
 
 chinche de cama
-
-
-A-   C
+A-   
 
 crujiente
 
-F#   D C
+C    F#   
 
 sabe a bicho
 
-A-    C     F#      
+D     C     A-
 
 queda leche crujiente
 
-D       C       
+C       F#
 
 chinche de cama
