@@ -19,3 +19,4 @@
 [http://www.2600.com](https://www.2600.com/offthewall/) |
 http://www.phrack.org/ |
 [http://www.l0pht.com](https://web.archive.org/web/20010118210000/http://www.l0pht.com/)
+![169928-1](https://user-images.githubusercontent.com/100168196/197267043-c0ce1e11-f3cd-4f81-bdd2-4f78fd8ef9e2.gif)
